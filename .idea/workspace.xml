@@ -43,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/test/src/test/java/com/testing/collection/CollectionTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,6 +71,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -661,9 +664,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ForumTestSuite_testCaseUsername - 2018.05.27 at 14h 28m 01s.xml">
-      <configuration name="ForumTestSuite.testCaseUsername" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ForumTestSuite_testCaseUsername - 2018.05.27 at 14h 29m 48s.xml">
       <configuration name="ForumTestSuite.testCaseUsername" configurationId="JUnit" />
     </history-entry>
@@ -691,10 +691,12 @@
     <history-entry file="CollectionTestSuite - 2018.05.27 at 15h 35m 09s.xml">
       <configuration name="CollectionTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CollectionTestSuite - 2018.05.27 at 15h 38m 29s.xml">
+      <configuration name="CollectionTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -704,9 +706,9 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32943678" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32943678" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
@@ -781,7 +783,7 @@
     <entry file="file://$PROJECT_DIR$/test/src/test/java/com/testing/collection/CollectionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
